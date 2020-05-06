@@ -1,5 +1,5 @@
 # CS4182_Robotics
-Topic: Robotiics
+Topic: Robotics
 
 Group 19:
 Christian Grimes - 19274815
